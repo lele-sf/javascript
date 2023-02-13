@@ -1,0 +1,29 @@
+#botao {
+    cursor: pointer;
+    width: 150px;
+    height: 60px;
+}
+strong {
+    font-size: 20pt;
+}
+strong#media {
+    font-size: 13pt;
+}
+mark#aprovado {
+    background-color: rgba(6, 240, 6, 0.568);
+    color: rgb(1, 94, 1);
+    padding: 2px;
+    font-weight: bold;
+}
+mark#reprovado {
+    background-color: rgba(240, 61, 6, 0.568);
+    color: rgb(156, 1, 1);
+    font-weight: bold;
+    padding: 2px;
+}
+mark#rec {
+    background-color: rgba(255, 167, 4, 0.596);
+    color: rgb(194, 126, 0);
+    font-weight: bold;
+    padding: 2px;
+}

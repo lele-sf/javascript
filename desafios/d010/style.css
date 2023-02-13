@@ -1,0 +1,12 @@
+#botao {
+    cursor: pointer;
+    width: 100px;
+    height: 60px;
+}
+strong#equacao {
+    font-style: italic;
+    font-size: 13pt;
+}
+strong#res {
+    font-size: 20pt;
+}
